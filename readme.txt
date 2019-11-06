@@ -1,7 +1,3 @@
-# Bayesian optimal design
-
-Experiments with optimising the goldilocks desing.
-
 # Introduction
 
 Main file is goldilocks.R. This calls on design.R, which calls on trial.R.
